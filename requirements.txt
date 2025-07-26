@@ -1,0 +1,7 @@
+langchain
+sentence-transformers
+pdfplumber
+google-generativeai
+python-dotenv
+Flask
+langchain-community
